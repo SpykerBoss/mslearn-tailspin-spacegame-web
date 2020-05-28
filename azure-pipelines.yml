@@ -1,3 +1,5 @@
+## Force the azure pipeline merge
+
 trigger:
 - '*'
 
